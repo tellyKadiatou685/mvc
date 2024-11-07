@@ -1,0 +1,17 @@
+{
+    "name": "kadiatou/formulaire",
+    "autoload": {
+        "psr-4": {
+            "Kadiatou\\Formulaire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tellykadiatou685",
+            "email": "kadiatoutelly685@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
